@@ -85,7 +85,7 @@ VS Code · JupyterLab · Git · GitHub · Google Colab · SQLite · PostgreSQL
 ---
 
 ### 📫 Reach Me
-[💼 LinkedIn]([https://www.linkedin.com/in/berkantgunel](https://www.linkedin.com/in/berkant-g%C3%BCnel-37261b308/))  
+[💼 LinkedIn](https://www.linkedin.com/in/berkant-g%C3%BCnel-37261b308/)  
 
 
 ---
