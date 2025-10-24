@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/berkantGunel/SelfLearning-Akinator/blob/main/assets/logo.png" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/toon_4.png" width="90"/>
   <h1>👋 Hi, I’m <strong>Berkant Günel</strong></h1>
   <p><em>Software Engineering Student (4th Year) @ Nişantaşı University</em></p>
   <p>💡 Exploring how <strong>AI</strong> and <strong>human reasoning</strong> can learn from each other.</p>
