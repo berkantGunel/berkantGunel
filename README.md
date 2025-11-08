@@ -58,23 +58,6 @@ VS Code · JupyterLab · Git · GitHub · Google Colab · SQLite · PostgreSQL
 
 ---
 
-### 📚 Highlighted Projects
-
-| Project | Description |
-|----------|-------------|
-| 🧞 **[SelfLearning-Akinator](https://github.com/berkantGunel/SelfLearning-Akinator)** | A self-learning AI guessing engine using probabilistic reasoning |
-| 🩺 **[DeepBreast-AI](https://github.com/berkantGunel/DeepBreast-AI)** | CNN-based breast cancer detection with Grad-CAM explainability |
-| 📊 **[Fun-Data-Science-Experiments](https://github.com/berkantGunel/Fun-Data-Science-Experiments)** | Exploratory data analysis, visualization, and prediction models |
-
----
-
-### 🧭 My Philosophy
-
-> “I don’t just code with AI — I **learn with** it.  
-> Every project I build is a step toward understanding intelligence itself.”
-
----
-
 ### 🧩 Leadership & Involvement
 - 💼 **NU Computer Club** – Club Manager  
 - 💼 **NU Software Club** – Club Manager  
