@@ -1,4 +1,4 @@
-# Selam! Ben Berkant Günel 👋
+#Berkant Günel 👋
 
 **Yazılım Mühendisi | Veri Bilimi & Yapay Zeka Meraklısı | Girişimci**
 
