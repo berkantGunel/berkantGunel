@@ -7,7 +7,7 @@
 <br/>
 
 Istanbul-based engineer building production systems at the intersection of **AI, infrastructure, and mobile**.
-Currently focused on `TypeScript` · `React Native` · `Node.js` at Çetaş Otomotiv's Digital Transformation team.
+Currently focused on `TypeScript` · `React Native` · `Node.js`.
 Background in containerized backends, enterprise integrations, and applied ML.
 
 <br/>
@@ -59,7 +59,6 @@ Background in containerized backends, enterprise integrations, and applied ML.
 
 | | Role | Company | Period |
 |---|---|---|---|
-| `>` | Software Specialist Assistant | **Çetaş Otomotiv** — Digital Transformation | `2026 – present` |
 | `>` | Operations & Software Support Intern | **Emakin** (6Kare & Arbalet) | `Nov 2025 – Jul 2026` |
 | `>` | Co-Founder | **BSA Partnership Ltd** — London, UK (Remote) | `Jan 2025 – present` |
 | `>` | Club Manager | **Nişantaşı Univ.** Computer & Software Club | `Sep 2023 – Mar 2024` |
@@ -101,8 +100,8 @@ Real-time AI inference through a web interface.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=berkantgunel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=1f6feb&text_color=8b949e&rank_icon=github&hide_title=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantgunel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6&hide_title=true" />
+<img height="175" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=berkantgunel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=1f6feb&text_color=8b949e&rank_icon=github&hide_title=true" />
+<img height="175" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=berkantgunel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6&hide_title=true" />
 
 </div>
 
